@@ -4,7 +4,6 @@ body::-webkit-scrollbar {
 
 .main-container {
     text-align: center;
-    width: 204vh;
     height: 100%;
     background-color: darkslateblue;
     padding: 20px;
@@ -32,11 +31,9 @@ body::-webkit-scrollbar {
     text-align: center;
     background-color: darkslategrey;
     height: 100vh;
-    width: 204vh;
 }
 
 .footer-container{
-    width: 204vh;
     height: 20vh;
     background-color: rgb(22, 34, 61);
     color: #fff;
