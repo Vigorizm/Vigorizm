@@ -1,0 +1,44 @@
+body::-webkit-scrollbar {
+    display: none; 
+}
+
+.main-container {
+    text-align: center;
+    width: 204vh;
+    height: 100%;
+    background-color: darkslateblue;
+    padding: 20px;
+    border: 3px solid darkslateblue;
+}
+
+.title {
+    color: blanchedalmond;
+    font-size: 20px;
+}
+
+.random {
+    color: bisque;
+    font-size: 30px;
+}
+
+.input {
+    padding: 5px;
+    background-color: rgb(90, 90, 90);
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px 3px rgb(48, 47, 47) ;
+}
+
+.body-container {
+    text-align: center;
+    background-color: darkslategrey;
+    height: 100vh;
+    width: 204vh;
+}
+
+.footer-container{
+    width: 204vh;
+    height: 20vh;
+    background-color: rgb(22, 34, 61);
+    color: #fff;
+    text-align: center;
+}
